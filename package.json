@@ -23,11 +23,11 @@
     "@tsconfig/svelte": "^1.0.10",
     "rollup": "^2.44.0",
     "rollup-plugin-css-porter": "^1.0.2",
-    "rollup-plugin-svelte": "^7.1.0",
-    "svelte-preprocess": "^4.7.0"
+    "rollup-plugin-svelte": "^7.1.6",
+    "svelte-preprocess": "^5.0.4"
   },
   "peerDependencies": {
-    "svelte": "^3.35.0"
+    "svelte": "^4.0.3"
   },
   "type": "module",
   "types": "types/index.d.ts",
